@@ -3,7 +3,8 @@
 📊 I explore the full data journey — from cleaning and engineering to modeling and visualizing insights.  <br>
 🧠 My interests include data analysis, machine learning, deep learning, and building data pipelines.  <br>
 📍 Currently based in Jakarta, Indonesia and always open to learning & collaboration.<br>
-access https://azzrialportfolio.framer.website/ to see my portfolio
+
+https://azzrialportfolio.framer.website/ -> myportfolio
 ---
 
 ## 🌐 Socials:
